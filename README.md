@@ -1221,4 +1221,3 @@ firebase deploy
 - Problem-solving (API normalization, error handling)
 - UX thinking (animations, loading states)
 
-Good luck with your interview! 🎉
